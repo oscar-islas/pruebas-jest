@@ -14,5 +14,5 @@ Input: isInteger(6)
 Output: true
 
 Input: isInteger('cadena')
-Output: true
+Output: false
 */
